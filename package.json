@@ -1,13 +1,13 @@
 {
   "name": "gosling-cistrome",
-  "homepage": "http://cisgos.gehlenborglab.org/",
+  "homepage": "https://gosling-lang.github.io/gosling-api-example/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "gosling.js": "0.7.7",
+    "gosling.js": "0.8.0",
     "lodash": "^4.17.21",
     "pixi.js": "^5.3.7",
     "react": "^17.0.2",
@@ -21,7 +21,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build; echo \"cisgos.gehlenborglab.org\" >> build/CNAME",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

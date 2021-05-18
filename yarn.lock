@@ -6956,10 +6956,10 @@ good-listener@^1.2.2:
   dependencies:
     delegate "^3.1.2"
 
-gosling.js@0.7.7:
-  version "0.7.7"
-  resolved "https://registry.yarnpkg.com/gosling.js/-/gosling.js-0.7.7.tgz#f91ab7bf8ae9f61ab31b2a5935998928d404ff80"
-  integrity sha512-YDJgI3p9GRwyubotdlfKhdhFQt8nx2dA8ju6wB6agdr9Kaiht6KxWb3xwGyBAeCR5g01JszfCtJKexp4PM7Mwg==
+gosling.js@0.8.0:
+  version "0.8.0"
+  resolved "https://registry.yarnpkg.com/gosling.js/-/gosling.js-0.8.0.tgz#f6f9f7799531eb958716dfa9db80f097eb4f21a8"
+  integrity sha512-aXFKwM2AZUnQ9dvefHj6RgRHkTVqApsJ9IDjPwiC98XCSIpx4kPLV/NNLs2cdh28TlEFN9cA4bzPHnItW4Wmxg==
   dependencies:
     "@gmod/bbi" "^1.0.30"
     "@types/d3" "^5.7.2"
