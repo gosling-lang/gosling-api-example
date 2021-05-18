@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.026f59d7.chunk.css",
-    "main.js": "/static/js/main.75fd09dd.chunk.js",
-    "main.js.map": "/static/js/main.75fd09dd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4516a769.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4516a769.js.map",
-    "static/js/2.705524ee.chunk.js": "/static/js/2.705524ee.chunk.js",
-    "static/js/2.705524ee.chunk.js.map": "/static/js/2.705524ee.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.026f59d7.chunk.css.map": "/static/css/main.026f59d7.chunk.css.map",
-    "static/js/2.705524ee.chunk.js.LICENSE.txt": "/static/js/2.705524ee.chunk.js.LICENSE.txt"
+    "main.css": "/gosling-api-example/static/css/main.026f59d7.chunk.css",
+    "main.js": "/gosling-api-example/static/js/main.31c2bf4c.chunk.js",
+    "main.js.map": "/gosling-api-example/static/js/main.31c2bf4c.chunk.js.map",
+    "runtime-main.js": "/gosling-api-example/static/js/runtime-main.e57ec2bd.js",
+    "runtime-main.js.map": "/gosling-api-example/static/js/runtime-main.e57ec2bd.js.map",
+    "static/js/2.46862529.chunk.js": "/gosling-api-example/static/js/2.46862529.chunk.js",
+    "static/js/2.46862529.chunk.js.map": "/gosling-api-example/static/js/2.46862529.chunk.js.map",
+    "index.html": "/gosling-api-example/index.html",
+    "static/css/main.026f59d7.chunk.css.map": "/gosling-api-example/static/css/main.026f59d7.chunk.css.map",
+    "static/js/2.46862529.chunk.js.LICENSE.txt": "/gosling-api-example/static/js/2.46862529.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4516a769.js",
-    "static/js/2.705524ee.chunk.js",
+    "static/js/runtime-main.e57ec2bd.js",
+    "static/js/2.46862529.chunk.js",
     "static/css/main.026f59d7.chunk.css",
-    "static/js/main.75fd09dd.chunk.js"
+    "static/js/main.31c2bf4c.chunk.js"
   ]
 }
