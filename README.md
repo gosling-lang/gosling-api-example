@@ -1,6 +1,6 @@
 # Gosling API Example
 
-This repository describes a way of using APIs of [Gosling.js](https://gosling.js.org) in a React application. You can try a [demo](gosling-lang.github.io/gosling-api-example/) to find out how APIs can be intergrated into a React application.
+This repository describes a way of using APIs of [Gosling.js](https://gosling.js.org) in a React application. You can try a [demo](https://gosling-lang.github.io/gosling-api-example/) to find out how APIs can be intergrated into external interactive components (e.g., buttons).
 
 ![May-18-2021 09-49-11](https://user-images.githubusercontent.com/9922882/118662979-6caedb00-b7be-11eb-8c8f-15e01ad4a9dc.gif)
 
