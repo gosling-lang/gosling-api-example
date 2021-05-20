@@ -55,6 +55,16 @@ function App(props) {
     gosRef.current.api.zoomTo("detail-view", pos, duration);
   }
 
+  function onExport(isPdf) {
+    if (!gosRef?.current) return;
+
+    if(isPdf) {
+      gosRef.current.api.exportPDF();
+    } else {
+      gosRef.current.api.exportPNG();
+    }
+  }
+
   useEffect(() => {
     window.addEventListener(
       "resize",
@@ -276,6 +286,19 @@ function App(props) {
               </div>
             );
           })}
+        <h5>Export</h5>
+        <div
+          className="gene-button"
+          onClick={() => onExport(true)}
+        >
+          PDF
+        </div>
+        <div
+          className="gene-button"
+          onClick={() => onExport(false)}
+        >
+          PNG
+        </div>
       </div>
       <div className="metadata-table">
         <h5>Inspector</h5>
